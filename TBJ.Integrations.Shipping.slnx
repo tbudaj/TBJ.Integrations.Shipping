@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TBJ.Integrations.Shipping/TBJ.Integrations.Shipping.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TBJ.Integrations.Shipping.Tests/TBJ.Integrations.Shipping.Tests.csproj" />
+  </Folder>
+  <Folder Name="/examples/">
+    <Project Path="examples/TBJ.Integrations.Shipping.WebApi/TBJ.Integrations.Shipping.WebApi.csproj" />
+  </Folder>
+</Solution>
