@@ -1,4 +1,7 @@
-# TBJ.Integrations.Shipping.Gateway
+# TBJ.Integrations.Shipping
+
+[![build](https://github.com/tbudaj/TBJ.Integrations.Shipping/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/tbudaj/TBJ.Integrations.Shipping/actions/workflows/build-and-test.yml)
+[![NuGet](https://img.shields.io/nuget/v/TBJ.Integrations.Shipping)](https://www.nuget.org/packages/TBJ.Integrations.Shipping)
 
 Centralny punkt wejścia do wszystkich integracji kurierskich w systemie TBJ.
 Implementuje wzorzec **Facade + Strategy** — aplikacja zawsze operuje na jednym interfejsie
